@@ -135,7 +135,7 @@ function App() {
         
       </div>
       <ul className="footer">
-          <li><a class="active-1" href="#CopyLink">COPY LINK</a></li>
+          <li><a class="active-1" href="https://ikram251.github.io/online_code_editor/">COPY LINK</a></li>
       </ul>
       </div>
       
